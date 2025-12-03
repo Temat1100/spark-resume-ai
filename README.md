@@ -3,6 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
+[![GitHub release](https://img.shields.io/github/v/release/feiyu23/spark-resume-ai)](https://github.com/feiyu23/spark-resume-ai/releases)
+[![GitHub stars](https://img.shields.io/github/stars/feiyu23/spark-resume-ai)](https://github.com/feiyu23/spark-resume-ai/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/feiyu23/spark-resume-ai/pulls)
 
 > An open-source, AI-powered resume optimization toolkit specifically designed for the Australian employment market. Built with 20+ years of data analytics and employment services expertise.
 
